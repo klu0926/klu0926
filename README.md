@@ -1,7 +1,7 @@
-<p align="Center" ><img src="resource/cry.png" height="200px" width ="250px"></p>
+<p align="Center" ><img src="https://media1.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif?cid=ecf05e47wk6r8y7dnh4ukwbfspznifsnlber386v9zy11x43&rid=giphy.gif&ct=s" height="200px"></p>
 
 
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm LU <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hi There, I'm LU <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klu0926" alt="klu0926-byte" /> </p>
 
 I'm a currently learning JavaScript 👨‍💻
